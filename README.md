@@ -12,4 +12,4 @@ Em seguida, exibe no console o nome do atleta, as notas recebidas e a média vá
 4. O resultado será exibido no console.
 
 # Notas
-Projeto desenvolvido para fins de estudo e prática de JavaScript pelo curso DevStart.
+Projeto desenvolvido para fins de estudo e prática da linguagem JavaScript através dos conhecimentos adquiridos no curso DevStart.
